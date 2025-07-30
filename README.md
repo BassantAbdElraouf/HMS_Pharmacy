@@ -1,4 +1,4 @@
-# 💊 Pharmacy Management Module – Odoo 18
+# 💊 Pharmacy Management Module 
 
 A complete solution for managing patient prescriptions 📋 and medicine stock 💼 inside your Odoo medical system.
 
