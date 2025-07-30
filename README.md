@@ -45,7 +45,7 @@ These core Odoo modules are required:
 
 ## ⚙️ Installation
 
-1. 📁 Copy the `pharmacy` folder to your **custom addons** directory.
+1. 📁 Copy the `pharmac_management` folder to your **custom addons** directory.
 2. 🛠 Restart your Odoo server.
 3. 🔄 Update the App List.
 4. ✅ Install **Pharmacy Management** from the Apps menu.
